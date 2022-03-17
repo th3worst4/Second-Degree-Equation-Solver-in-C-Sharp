@@ -3,3 +3,5 @@
  
  Code and program are in Brazilian Portuguese.
  
+ Executable can be found at: obj/Release/Bhaskara.exe
+ 
