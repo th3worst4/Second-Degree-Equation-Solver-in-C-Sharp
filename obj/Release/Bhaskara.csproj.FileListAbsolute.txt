@@ -1,0 +1,8 @@
+E:\Users\Exata\Documents\Visual Studio\C#\Bhaskara\obj\Release\Bhaskara.csproj.AssemblyReference.cache
+E:\Users\Exata\Documents\Visual Studio\C#\Bhaskara\obj\Release\Bhaskara.csproj.SuggestedBindingRedirects.cache
+E:\Users\Exata\Documents\Visual Studio\C#\Bhaskara\obj\Release\Bhaskara.csproj.CoreCompileInputs.cache
+E:\Users\Exata\Documents\Visual Studio\C#\Bhaskara\bin\Release\Bhaskara.exe.config
+E:\Users\Exata\Documents\Visual Studio\C#\Bhaskara\bin\Release\Bhaskara.exe
+E:\Users\Exata\Documents\Visual Studio\C#\Bhaskara\bin\Release\Bhaskara.pdb
+E:\Users\Exata\Documents\Visual Studio\C#\Bhaskara\obj\Release\Bhaskara.exe
+E:\Users\Exata\Documents\Visual Studio\C#\Bhaskara\obj\Release\Bhaskara.pdb
